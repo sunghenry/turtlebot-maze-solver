@@ -6,6 +6,9 @@ TurtleBot Maze Solver is a TurtleBot3 designed to solve mazes using its Simultan
 
 ![bot-slam](demo/bot-slam.png)
 
+https://github.com/sunghenry/turtlebot-maze-solver/assets/164011196/59004988-39d2-441d-869b-e574ba0fae3c
+
+
 ## Getting Started
 
 This guide outlines the steps to run the TurtleBot Maze Solver with simulation on Ubuntu 20.04 with ROS Noetic. For other platforms, please refer to additional resources.
